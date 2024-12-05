@@ -20,5 +20,6 @@ Upon pressing play the game will start playing.
 The fox will display different behaviours interchangably, between its free turn and chasing the grass block it views as food.
 Currently there are only a few animations that work but this will be changed for the full release
 The main information is that the grass block can be used to get the animal to move to a desired location, potentially as a platform if needed(?)
+The animal uses behaviour trees with decorators to determine its active actions
 
 The grass block it the main item seen and will grow again in a different patch once previously consumed, this is still a work in progress however.
